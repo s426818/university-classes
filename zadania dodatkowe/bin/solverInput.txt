@@ -1,0 +1,101 @@
+omaha-holdem 6sAs6h8s2c Ad9d3h9s 7h7s4dJh Qc3dKcQc JsAc9h2s
+texas-holdem JsTd5s3sQd 9h8h 6dTs Qc2c 8dTh
+texas-holdem 5d9cJsKd3c 4hKd 2sQs 5sKs Tc8d
+five-card-draw Ad9hThKs7d 2s3hTs9c3c As8cTc3s6s 8h3d3h6c7s
+five-card-draw 2c4sKd7sTd 8d8cTd6c6s 6c2s3s3hKd 7c9cTcAc8s
+texas-holdem 6s6cTc8c7d 4dJd KsKd 9h6d 9hQd
+texas-holdem 7d3h4sAc9c 8cAh Ts7h KdQc 6d7d
+omaha-holdem Jd5cTdKs5d 3d8sJhAs 4cAh8hKh AsTsTc3c 4h4c4d2d
+omaha-holdem 8dTc8h3h6d 5h4s6hTh AdAsQs9d 2dTc2s7h Ac3d5s4s
+omaha-holdem QdKcKc9hQh 5h6c8h3d 9sJc4hQc 8s6sQc7d Th8c8d6c
+omaha-holdem 5h9sQcJsTd 4s3s9d4s AdTsQsAc 3c4c9c7d Kd2h6sJc
+texas-holdem 4hTcTsAc2h 6c4d 3sQh AhJd 8h6h
+texas-holdem Tc2sAs5d8s Ac5c JsQh Th7c 6c4s
+texas-holdem 3s2c3cAh3d 8s5h 3c5c 6dKh 9s8c
+five-card-draw Qs3s4h4s9h 6d6d6h8sQh 2cKd6cKs4d 3d6sQsKhAd
+texas-holdem Ac3h7d8s5c 9d7h 6dAs Kd5s 6sQs
+texas-holdem Ac9s5d9sTh 5s8c 8c8h 9hJd 2c2d
+omaha-holdem 8c5d2d9h6d 3d2c8dKc 9d5c7sTh 2dJhAc4d 2h3c6h4s
+omaha-holdem 9sKs9hTh9h Qc8s4s9c 3dQh8h6s 5cTc8s7s 3h9s3c9d
+omaha-holdem 6cAhJc5s5d Td6hTcTh 9hQd8sQh 7hKc5s8c 3d8d7cKc
+five-card-draw 2dAd7s9c6d Qc2c3sQs6s Qh8d3dJd9s AhKdQdAcQh
+texas-holdem 7d3cTs5cTc Jd7s KcKh TsQd 5c2c
+five-card-draw 4dQcAsThJs 6h5c3d3sTd 2d4sTc9hAc 8d9d9h8sQc
+texas-holdem 4h4cJhKc5h KsKs Ad4c 7hAs Jh3c
+five-card-draw TsTcQhJs5s As7h5c6hTd 7hQc5hTh3d 7dAh6c6sAc
+five-card-draw 3d5c6c3s8c Jh5sAs2sKc 6h2dKcAh4h 4cAc8dAsKs
+five-card-draw AcTh3s4c2h Ad8sQc2hAh 6hKhQd7h9d Ks8cKh2s2d
+texas-holdem 8d5cJc4hTs 4c4d 8s3d 4s2s Kc6c
+five-card-draw 6s6h2sAdTc 4hAsKc3hTs AdKhKd4d4s 9h2cKsAc7d
+five-card-draw 5c7s3dJd3h 6h9d4h2h5s QhQdThJh8d Tc2h3c6d9d
+texas-holdem ThKd6d7h9h JsAc 2s9s TsKh Kh9h
+omaha-holdem 7h7c3sKd6d 3d5sJhQs 5d2d9h9d Js8c3s7c Jh3d5sJd
+omaha-holdem Ac5c3h5h7d 8c9d2h6h 4h7sKsAc Ad6s3c8d 4s5sQs9h
+omaha-holdem 6c3d5c7c7s 7cKs3sKs 7dQcAcQs 4cAhQh8h Jd3cKdTh
+texas-holdem ThAdAs4hTs Qh3s Qc7d 2c8h 7d7h
+five-card-draw 2cJcKh6c3c Kc7dTc7h3d 2sQs9s5sTs 7h6h3h4h2h
+five-card-draw Js2h5s8s9h Td6s4s9s6d 2s4cJdTh7s 9c7d5hTd8d
+five-card-draw 9c5d7s9hTc KsTdQc4s8d 2c3hQc5s4d JsJd5d2s8d
+texas-holdem 7h4hAd9c5c KdJd As2s AdJc Td5h
+texas-holdem ThJh2h7s6h 8s6s 2d4c 5d3s 6h4s
+texas-holdem 4hJc8d3hJh 7d5c TdTd 5d5h 7h8s
+five-card-draw Ks4s2s5dAc Ts2d5h5hJc 8s5d3dQh4h 7h5c9sTd8d
+omaha-holdem 4sQs8dAhAh 5c7s4s3c AcJc3sKd TdQh5dJc 9c4dKcAd
+omaha-holdem QdAs7sTh9h Ks5c6sAd 4d7dJh2d 8sAh7h2c Ts6hKdQs
+omaha-holdem Js7hQd4sQc KcJc8h5h 6s2d8c9c Qs7cAsKc 4c3c8c5c
+omaha-holdem 6cQcJs3d5s 6h9c6s8s 2c4h9s3s 5d7dTcAh 8dJd5c8c
+five-card-draw 4dQs6h3hQh 9h3c5d7s9d Ah6dAs2c5d 8cTs2dThQc
+five-card-draw Ts6d2sThQc 4d9dJh3d5s JcKsAc4s2h Qc5c7s8sAd
+five-card-draw 7d4sTh9cKc 2h4hAsQsQd Kh6c2d2sJc 4h3hTd8c3c
+omaha-holdem 2hQhThKdKh 4s9d8cAd 8hQh2cTc AcTsTdTd AhKs6s4c
+texas-holdem Js6d6sQsKc Jc2c Td5h Kd9h Jh4s
+texas-holdem Th9h5c4dTc TcAd 4h2d Kd8h 7hQh
+five-card-draw 2s7sQh9c5c Jh2cKc7dQs Kd6d8cQcAs 8s7h6c8dKs
+omaha-holdem Ah2cQsAh2s Js8d3cQs As7c6s3s 7hQh8hKs Kd7d9h9h
+omaha-holdem Ks2s9h6sAs KcJs5c3d Th8cKh3s 3c6c6hKh Ah7cQh7h
+omaha-holdem 2h8s8cQdJs 6h9sAcKd Qc6c9s7d 9h8dQh3h Qs7s3h3d
+texas-holdem 3c2s8dKs2h 9c8h Ac7h 2d3d 2cQh
+omaha-holdem 5d5s2h4dAd TcAdJd3d 2sQdTsJc 5c2d8c2h 6hAc3c9h
+five-card-draw 8s4c3dAs3h 6h7c9dAh2d Kc5h5c6cKs 9s7hAsKhAc
+five-card-draw 2sJsJd4dQc 2d7s3h7hQh 2cTh9h2c4h TdAc5c9s7c
+five-card-draw 9s3sQs5c8d QcTsJs3s4d JcKd7s9dAc Ah7dJh4hKs
+texas-holdem 4dJcJcQd5c 2s4h 8h2h AdKc 4h7h
+five-card-draw KsKdAs9d6c 9s4c5s3d5h AdQs5c5d8c Th2h4s2dJh
+texas-holdem 8dQcKcAh4c Ts6c 2dQs As3s JcTh
+five-card-draw 2d6cAh4s7h AsQd6h9s9d KhQs2s4d8c 5hAd7dTsJc
+omaha-holdem 6c6dAc7cQh 5cJhAs6h Qh5s7d7c 5s3c2c8d 7s4c8s5h
+texas-holdem 7sJdAcQcTc Kd8c 3c7d 2h7s 3c6c
+texas-holdem 2c4sQsTh9s 3hAh Qh5s Ks6h 9d3h
+five-card-draw 5cJd5dAh4s Ad6h5s2c5d 5c6dAc4d8h 5hTd6d7cKs
+omaha-holdem Ac6c7c4hJc AhAd3s2s KhJs8dQd 2h8c8sJd 7s7d6c2c
+five-card-draw TsQc9s6d5h KhKc8c8s6s 5d3hTd9d9s Qc6s9hTh5s
+five-card-draw 8dKhKdQsTs 2cJh8s5h9c 6hKd2dAc4h TdQd2h4c3h
+texas-holdem AdKcQh9dQs 7hKs Td8d 3d6s 5d2c
+five-card-draw 9dQdAs2d2d 6h5sTc4dTs 3s6dJsAc7c 5c6d9hAh6c
+five-card-draw AdQcAsTc7s Qc7hQs4hKd 5d9sQhJs7d KhQsAh9h4c
+texas-holdem 8cKc9sJs5h 9s2d 9d7h 4c9h Ah2c
+five-card-draw 8hQdKhJc5h 4s4hAs3d3s 3c8d6sTcKs AcQsKc9sKh
+omaha-holdem 7c7hTdAh6s 4c8hThJh Js8sJcJs 3c6hJdAh Qh9c9c5c
+omaha-holdem Qc6h5hTd3d Ts4h4d2h 7sTh8d7h 9d7c7c3c 6c8dAs4s
+five-card-draw JcQhKhAsTc KdJsJc8s8s 4h6d3d9d4c 7c3d7hKs2s
+omaha-holdem QsQhKsTc8s QcAh7c4d 5cKs3h6c 5dJsTh2s 6cTs3h6s
+omaha-holdem 5s2cKs8cQc 3h2s7c5h QsTd4dKc 8hJh9cKh 8sQd7d2c
+omaha-holdem Jh4h8c8hTc ThKd7s8c KcAdTsQd 2cQsAh9d Jh5hJc8d
+texas-holdem Ah5d7h3c9d KcJc 7c2c 3c8h 9c5d
+five-card-draw 6dTd7cJc7d 2h9cJc5hAs 9sJdAc5c4s 8s6d3sAsQd
+texas-holdem 6hQdAdAhTs JcKh 5cAc Th9c 4cJs
+texas-holdem 3h7d7hKsJs 9dJd 7d8c 9hKh 6c8d
+five-card-draw 8dKd3s9d6c 3c4s9dJdTd 3h7h9hQs8h Kd5cAsAd6d
+five-card-draw Ah6cAh4hJc Jc4dJs4sQh 7h6hQd4s8c 9h6dKs9d6s
+texas-holdem 8s6c3c3s6d Ks4h Td5h Jd5s Qd3d
+omaha-holdem Ks8cTsKcKd 3c9hKs8s AdJdTc4d 6dJsTdQd 6h3s2s6c
+omaha-holdem 6d6c8dJs5h 3h5sQh7h 2dKdAsAd Ks8d9sTd AcJh4dJh
+five-card-draw 5sAsAc4s7h KdQhKh2c4h Jh9c6sQd5c Ac8s2hTd7c
+five-card-draw 4d3dAs3c2d 7d4sKcQcJd 3s3d6dAd4d 6sQc8h2hQs
+omaha-holdem Jd2sAs2s3d Kd3d7dQd 7s6dQc9h 5s3sTs6h 5hAc5hQs
+five-card-draw Tc3cAc8hTh Qd4cKcQdJh 5h6h9d2hKs Qc4sQc7d8s
+texas-holdem QhKd7cTs4s 9c5h 4d8d 6d2c 4hTd
+omaha-holdem 3c6s3h3dQc Kc7dJsTh 2h7c6cTs 2c9hAs4h KdKsQsAh
+omaha-holdem 9h3h3s3h5d 6dJcTc7s Kd2hJdKs 9d7d4s5h 2d4dJh9c
+texas-holdem 5sJd3s8c8s 8hTh Tc5c Ah6c Qc6d
+five-card-draw 6c7h8c5d4c ThAhJhKhQh 3s5sAs4s2s Qd4cKcQdJh Tc3cAc8hTh Tc3cAc8hTh Qd4cKcQdJh 5h6h9d2hKs Qc4sQc7d8s 5sAsAc4s7h KdQhKh2c4h Jh9c6sQd5c Ac8s2hTd7c 3c4c5c6c7c 3d4d5d6d7d 3c4c5c6c7c
